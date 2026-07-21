@@ -5,7 +5,7 @@ This is a simple, native JavaScript program.
 How to run it:
 
 ```
-node monitor.js <URL 1 <URL 2>
+node monitor.js <URL 1 <URL 2> ... <URL n>
 ```
 
 monitor.js is simply the original program's name, change it to whatever you've changed it to.

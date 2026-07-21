@@ -1,0 +1,13 @@
+{
+  "name": "cli-app-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monitor.js",
+  "type": "module",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "keywords": [],
+  "author": "N. D. Minh",
+  "license": "ISC"
+}
